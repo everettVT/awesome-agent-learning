@@ -1,11 +1,13 @@
 # awesome-agent-learning
 
 
+# Programming & Design Patterns
+[Refactoring Guru - Design Patterns][https://refactoring.guru/design-patterns]
 
 
-[https://aima.cs.berkeley.edu/index.html] 
 
 
 
 
-## Knowledge Sources for Agent Reference
+## Canonical References Sources 
+[Artificial Intelligence, A Modern Approach][https://aima.cs.berkeley.edu/index.html] 
