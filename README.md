@@ -10,4 +10,4 @@
 
 
 ## Canonical References Sources 
-[Artificial Intelligence, A Modern Approach][https://aima.cs.berkeley.edu/index.html] 
+Artificial Intelligence, A Modern Approach [https://aima.cs.berkeley.edu/index.html] 
